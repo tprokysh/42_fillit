@@ -3,7 +3,7 @@ Function finds the smallest area for the given tetromino and fills it with them.
 
 usage:
 <pre>
-./fillit [file]
+make && ./fillit [file]
 </pre>
 file example:
 <pre>
