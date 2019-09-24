@@ -17,3 +17,10 @@ file example:
 ....
 ....
 </pre>
+out:
+<pre>
+.A..
+.A..
+AAB.
+.BBB
+</pre>
